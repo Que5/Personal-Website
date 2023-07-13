@@ -411,7 +411,7 @@ footer {
   }
   .scroll-up {
     position: fixed;
-    right: 5%;
+    right: 3%;
     bottom: 3%;
     cursor: pointer;
   }
@@ -424,7 +424,7 @@ footer {
     display: flex;
     flex-direction: column;
     position: fixed;
-    right: 4%;
+    right: 3%;
     bottom: 50%;
   }
   
