@@ -412,7 +412,7 @@ footer {
   .scroll-up {
     position: fixed;
     right: 3%;
-    bottom: 1%;
+    bottom: 0%;
     cursor: pointer;
   }
   
